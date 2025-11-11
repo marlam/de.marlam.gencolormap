@@ -1,0 +1,25 @@
+From 82e201da6845c03c38af9c6792bf4bd6c7544851 Mon Sep 17 00:00:00 2001
+From: Martin Lambers <marlam@marlam.de>
+Date: Tue, 11 Nov 2025 22:13:38 +0100
+Subject: [PATCH] Update meta info
+
+---
+ res/de.marlam.gencolormap.metainfo.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/res/de.marlam.gencolormap.metainfo.xml b/res/de.marlam.gencolormap.metainfo.xml
+index bb90690..1261bb9 100644
+--- a/res/de.marlam.gencolormap.metainfo.xml
++++ b/res/de.marlam.gencolormap.metainfo.xml
+@@ -32,7 +32,7 @@
+   <url type="homepage">https://marlam.de/gencolormap</url>
+ 
+   <releases>
+-    <release version="2.5" date="2025-11-11">
++    <release version="2.6" date="2025-11-11">
+       <description>
+         <p>Improved user interface and new HEX export format.</p>
+       </description>
+-- 
+2.51.0
+
