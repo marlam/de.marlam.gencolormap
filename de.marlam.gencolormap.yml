@@ -16,5 +16,7 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://marlam.de/gencolormap/releases/gencolormap-2.5.tar.gz
-        sha256: 54ad7e840db93ac46c5d1379b6d314a3b24849a74deac268b10c647463e3147a
+        url: https://marlam.de/gencolormap/releases/gencolormap-2.6.tar.gz
+        sha256: 42e49831e415412d42bdae86c3054cab5d2b1e75488e21341b303ae31e60f453
+      - type: patch
+        path: 0001-Update-meta-info.patch
